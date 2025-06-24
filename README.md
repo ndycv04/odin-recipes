@@ -1,4 +1,3 @@
 # odin-recipes
 
-## Description
-Welcome. This is a recipe website where we can use for cookings.
+The Odin Project - Foundations Course Project : Recipes. The recipe used is inspired by my mom's cookings from when I was a kid.
