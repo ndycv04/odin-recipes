@@ -1,4 +1,4 @@
 # odin-recipes
 
-# Description
-# this is a recipe website where we can view the recipes
+## Description
+Welcome. This is a recipe website where we can use for cookings.
